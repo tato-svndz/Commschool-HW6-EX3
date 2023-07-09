@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layout {
+    height: 100vh;
+}
+
+.top {
+    height: 80%;
+}
+
+nav {
+    float: left;
+    height: 80%;
+    width: 20%;
+    border: 1px solid black;
+}
+
+header {
+    float: left;
+    height: 20%;
+    width: 80%;
+    border: 1px solid black;
+}
+
+main {
+    float: right;
+    width: 80%;
+    height: 60%;
+    border: 1px solid black;
+}
+
+.box {
+    height: 100%;
+    width: 75%;
+    border: 1px solid black;
+}
+
+footer {
+    clear: both;
+    height: 20%;
+    border: 1px solid black;
+}

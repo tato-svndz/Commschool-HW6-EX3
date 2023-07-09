@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.layout {
+    height: 100vh;
+    border: 1px solid black;
+}
+
+header {
+    border: 1px solid black;
+    height: 33.3%;
+}
+
+main {
+    border: 1px solid black;
+    height: 33.3%;
+}
+
+footer {
+    border: 1px solid black;
+    height: 33.3%;
+}
